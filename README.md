@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Rafael 👋</h1>
 
 <p align="center">
-  Developer focused on <b>Python</b> and <b>security analytics</b> — building clean, local-first tools with explainable results.
+  Backend developer working with <b>Java / Spring Boot</b> and <b>Python</b>.<br/>
+  I build clean, tested, explainable systems: REST APIs, data pipelines and security/AI analytics.
 </p>
 
 ---
@@ -9,21 +10,29 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,js,html,css,powershell,bash,git,github&perline=10" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgres,sqlite,docker,linux,git,github&perline=10" alt="Core stack" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,bash,powershell&perline=10" alt="Also" />
 </p>
 
-## 🚀 Featured Project
+| Area | Technologies |
+|---|---|
+| Backend | Java 17, Spring Boot, Spring Data JPA, Bean Validation, FastAPI, SQLAlchemy |
+| Data | SQL (PostgreSQL, SQLite, H2), pandas, scikit-learn, spaCy |
+| Quality | JUnit 5, MockMvc, pytest, GitHub Actions |
+| Ops | Docker, Docker Compose, Linux, Bash, PowerShell, Git |
+| Frontend | JavaScript, React, HTML, CSS, Streamlit |
 
-### [🔐 AI Risk Scanner](https://github.com/nobrerafael521-svg/ai-risk.scanner)
+## 🚀 Featured Projects
 
-Local-first security risk analytics platform with **explainable risk scoring**, a **FastAPI** backend and an interactive dashboard.
-
-- Event ingestion via REST API, persisted in SQLite
-- Rule-based + behavioral detection of suspicious activity
-- Per-user risk aggregation and dashboard (KPIs, table, chart)
-- No paid APIs, no cloud dependency
-
-`Python` · `FastAPI` · `SQLite` · `JavaScript` · `HTML/CSS`
+| Project | What it does | Stack |
+|---|---|---|
+| [**ai-decision-simulator**](https://github.com/nobrerafael521-svg/ai-decision-simulator) | Explainable decision engine for customer messages. REST API with validation, persistence, pagination and 26 tests | `Java` `Spring Boot` `JPA` `PostgreSQL` `Docker` |
+| [**ai-risk.scanner**](https://github.com/nobrerafael521-svg/ai-risk.scanner) | Local-first security analytics with explainable risk scoring and a live dashboard | `Python` `FastAPI` `SQLite` `JavaScript` |
+| [**ai-observability-platform**](https://github.com/nobrerafael521-svg/ai-observability-platform) | Observability for AI/LLM services: anomaly detection, forecasting and recommended actions | `Python` `FastAPI` `React` `Docker` |
+| [**vision-evidence-ai**](https://github.com/nobrerafael521-svg/vision-evidence-ai) | Image quality and evidence analysis with annotated output and HTML/PDF reports | `Python` `FastAPI` `OpenCV` `Streamlit` |
+| [**insightlens**](https://github.com/nobrerafael521-svg/insightlens) | Customer feedback analytics: sentiment, topics and keywords for PT/EN text | `Python` `NLP` `pandas` `Streamlit` |
 
 ## 📊 GitHub Stats
 
