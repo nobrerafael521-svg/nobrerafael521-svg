@@ -1,46 +1,41 @@
-<h1 align="center">Hi, I'm Rafael 👋</h1>
+## Rafael Nobre
 
-<p align="center">
-  Backend developer working with <b>Java / Spring Boot</b> and <b>Python</b>.<br/>
-  I build clean, tested, explainable systems: REST APIs, data pipelines and security/AI analytics.
-</p>
+Software Developer | Java, Spring Boot, Python | Backend and API Development
 
----
+I design and build backend services and REST APIs, with attention to testing, maintainability and security. I am studying Software Development at ISTEC Lisbon and building my own products alongside my studies.
 
-## 🛠️ Tech Stack
+### Services
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgres,sqlite,docker,linux,git,github&perline=10" alt="Core stack" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,bash,powershell&perline=10" alt="Also" />
-</p>
+I work with businesses and individuals on:
+
+- **Backend and API development**: REST APIs with Spring Boot or FastAPI, database design with PostgreSQL
+- **Automation and integrations**: Python scripts and services that connect tools, process data and remove manual work
+- **Deployment**: containerised applications with Docker, ready to run on a server
+- **Secure API setup**: authentication, input validation and safe handling of credentials
+
+Each project is delivered with documentation and source code you own.
+
+### Technical skills
 
 | Area | Technologies |
-|---|---|
-| Backend | Java 17, Spring Boot, Spring Data JPA, Bean Validation, FastAPI, SQLAlchemy |
-| Data | SQL (PostgreSQL, SQLite, H2), pandas, scikit-learn, spaCy |
-| Quality | JUnit 5, MockMvc, pytest, GitHub Actions |
-| Ops | Docker, Docker Compose, Linux, Bash, PowerShell, Git |
-| Frontend | JavaScript, React, HTML, CSS, Streamlit |
+|------|--------------|
+| Languages | Java 17, Python, SQL |
+| Frameworks | Spring Boot, FastAPI |
+| Databases | PostgreSQL |
+| Infrastructure | Docker, Linux, Git, GitHub Actions |
+| Testing | Pytest |
+| Security | API security (OWASP API Top 10), Linux hardening |
 
-## 🚀 Featured Projects
+<!--
+### Selected projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**ai-decision-simulator**](https://github.com/nobrerafael521-svg/ai-decision-simulator) | Explainable decision engine for customer messages. REST API with validation, persistence, pagination and 26 tests | `Java` `Spring Boot` `JPA` `PostgreSQL` `Docker` |
-| [**ai-risk.scanner**](https://github.com/nobrerafael521-svg/ai-risk.scanner) | Local-first security analytics with explainable risk scoring and a live dashboard | `Python` `FastAPI` `SQLite` `JavaScript` |
-| [**ai-observability-platform**](https://github.com/nobrerafael521-svg/ai-observability-platform) | Observability for AI/LLM services: anomaly detection, forecasting and recommended actions | `Python` `FastAPI` `React` `Docker` |
-| [**vision-evidence-ai**](https://github.com/nobrerafael521-svg/vision-evidence-ai) | Image quality and evidence analysis with annotated output and HTML/PDF reports | `Python` `FastAPI` `OpenCV` `Streamlit` |
-| [**insightlens**](https://github.com/nobrerafael521-svg/insightlens) | Customer feedback analytics: sentiment, topics and keywords for PT/EN text | `Python` `NLP` `pandas` `Streamlit` |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Project name](LINK) | Description | Stack |
+-->
 
-## 📊 GitHub Stats
+### Contact
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nobrerafael521-svg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobrerafael521-svg&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/rafael-nobre-b9842a386/) | [Upwork](https://www.upwork.com/freelancers/~0139db53f2a3ad5cbf) | nobrerafael521@gmail.com
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nobrerafael521-svg&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+Available for freelance projects and junior backend positions.
